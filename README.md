@@ -17,4 +17,4 @@ For Example :
 1-For successfull Debug for source ,
 2-choose "Release" option in Visual Studio higher version "Visual Studio 15"
 3-make sure winrar installed on your computer
-4-right click on "Resources.rar.part1" then press on "Extract to Resources"
+4-inside the "bin\release\" folder , right click on "Resources.rar.part1" then press on "Extract to Resources"
